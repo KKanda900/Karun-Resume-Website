@@ -26,9 +26,7 @@ const ContactPage = () => {
                             </form>
                         </div>
                     
-                    <div className="split right">
-                        <img src={RocketShip} className="rocketShip" />
-                    </div>
+                    
 
         </Layout>
     )
