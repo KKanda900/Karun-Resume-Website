@@ -8,5 +8,6 @@ module.exports = {
   /* Your site config here */
   plugins: [
     'gatsby-plugin-sass', `gatsby-transformer-sharp`, `gatsby-plugin-sharp`
-  ]
+  ],
+  pathPrefix: `/Karun-Resume-Website`,
 }
