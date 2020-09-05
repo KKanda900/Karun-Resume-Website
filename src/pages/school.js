@@ -22,7 +22,9 @@ const EducationPage = () =>{
                 <li>Data Structures - Where I learned the main data structures utilized in everyday applications and learned how to analyze them by their run-time and space complexity.</li>
                 <li>Computer Architecture - Where I learned about the fundamental issues in the design of the modern computer.</li>
                 <li>Principles of Information and Data Management - Where I learned about the process of building a Database from the conceptual design to the physical design of a database.</li>
-                <li>Discrete Structures - Where I learned about the theoretical perspective of Computer Science through many mathematical concepts such as number theory, probability theory, etc all in the perspective of Computer Science.</li>
+                <li>Design and Analysis of Algorithms - Where I am learning how to design efficient algorithms and how to analyze algorithms based on their Big O, Big Theta, and Big Omega run-time to determine efficient algorithms.</li>
+                <li>Software Methodology - Where I am learning the design process in making applications and the fundamentals of Object Oriented Programming.</li>
+                <li>Systems Programming - Where I am learning about writing lower-level programs that interact directly with the computer's operating system and hardware.</li>
             </ul>
             </p>
             <br/>
@@ -35,12 +37,6 @@ const EducationPage = () =>{
                     <li>What is Vex U?: Vex U is a competition held by the company Vex where universities all over the world participate to compete in a specific game set by Vex that the student teams have to create two robots to complete the game. Building the robot involves students to make the physical design and software of the robot.</li>
                     <li>Role: Programming Lead</li>
                     <li>Impact: As the division's programming lead I am responsible to teach any new coming students the fundamentals of programming the Vex Robots and teach them the ins and outs of creating the software of the robot.</li>
-                </ul>
-                <li>Rutgers Mobile Application Development Club</li>
-                <ul>
-                    <li>What is Rutgers Mobile Development Club (RUMAD)?: RUMAD is a club that consists of many students aspiring to learn more about Mobile Development and aspiring to learn how to develop their own mobile applications.</li>
-                    <li>Role: General Member</li>
-                    <li>What did I learn?: In this club there were many events in which companies came to talk about mobile development and I learned about the mobile application development process.</li>
                 </ul>
             </ul>
             </p>
