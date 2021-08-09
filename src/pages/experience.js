@@ -21,9 +21,9 @@ const ExperiencePage = () => {
             <p>The Cyber Physical Systems (CPS) Laboratory's overarching mission is to propose novel sensing paradigms to transform raw sensed heterogeneous data into valuable information (by giving semantic meaning to the collected data) and, finally, into knowledge through information fusion and integrat ion. These paradigms will apply to those distributed systems that need to timely react to sensor information with an effective action such as cyber-physical systems, which feature a tight combination of, and coordination between, the system’s computational and physical elements. The significance of the research is to leverage the acquired knowledge to broaden the potential of cyber-physical systems in several dimensions, including: augmentation of human capabilities, understanding of human activities, coordination of heterogeneous (infrared) cameras, operation in dangerous or inaccessible environments, and efficiency.</p>
             <p></p>
             <p>
-                Under the Guidance of: Professor Pompili (Associate Professor) and Mehdi Rahmati (Ph.D Student)
+                Under the Guidance of: Professor Pompili (Associate Professor)
             </p>
-            <p>Working here consisted of many experiments </p>
+            <p>Working here consisted of conducting many experiments and creating many scripts</p>
             <p>
                 As a Research Software Engineer my responsibilities consisted of:
                 <ul>
@@ -32,9 +32,10 @@ const ExperiencePage = () => {
                     <ul>
                         <li>Some projects I have completed so far is:</li>
                         <ul>
-                            <li>Server-Client Socket for communicating data between the Raspberry Pi in the submarine and my laptop.</li>
-                            <li>Creating a fully autonomous mode for the robot submarine.</li>
+                            <li>Created a machine learning application to identify different pollutions in any body of water.</li>
                             <li>Created a G.U.I for a IoT setup between many robot submarines, laptop, router and buoys.</li>
+                            <li>Creating a fully autonomous mode for the robot submarine.</li>
+                            <li>Server-Client Socket for communicating data between the Raspberry Pi in the submarine and my laptop.</li>
                         </ul>
                     </ul>
                     <li>Creating real-time efficient programs that is able to run on low-end hardware such as a Raspberry Pi with lower CPU power and memory space.</li>

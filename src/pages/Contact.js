@@ -1,6 +1,5 @@
 import React from 'react'
 import Layout from '../components/Layout'
-import RocketShip from '../images/rocket.gif'
 
 const ContactPage = () => {
     return (
@@ -10,7 +9,8 @@ const ContactPage = () => {
                             <p>
                                 Feel free to contact me via
                                     <ul>
-                                    <a className="check2" href="https://www.linkedin.com/in/karun-kanda-2b0a18159/"><li>Linkedin</li></a>
+                                    <a className="check2" href="https://www.linkedin.com/in/karunkanda"><li>Linkedin</li></a>
+                                    <a className="check2" href="https://www.polywork.com/kkanda900"><li>Polywork</li></a>
                                     <li>Email at kkanda900@gmail.com</li>
                                 </ul>
                             </p>
