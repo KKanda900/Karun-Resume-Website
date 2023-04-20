@@ -17,7 +17,7 @@
   "dependencies": {
     "gatsby": "^2.21.37",
     "gatsby-plugin-sass": "^2.3.2",
-    "gatsby-plugin-sharp": "^2.6.8",
+    "gatsby-plugin-sharp": "^4.25.1",
     "gatsby-transformer-sharp": "^2.12.0",
     "node-sass": "^4.14.1",
     "react": "^16.12.0",
